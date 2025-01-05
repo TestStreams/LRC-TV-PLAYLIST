@@ -13,3 +13,6 @@ https://streamer1.nexgen.bz/BET/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="Bravo" tvg-name="Bravo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/800px-Bravo_2024.svg.png",Bravo
 https://streamer1.nexgen.bz/BRAVO/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+https://list.iptvcat.com/my_list/s/bd7d295cbc106d36491e59f262f3efb5.m3u8
