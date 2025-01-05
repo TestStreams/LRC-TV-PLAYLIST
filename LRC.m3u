@@ -7,3 +7,6 @@ http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTM3U
 #EXTINF:-1,AnimalPlanel.in,ANIMAL PLANET
 http://108.61.156.252/hls/animalplanet.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="BET" tvg-name="BET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg",BET
+https://streamer1.nexgen.bz/BET/index.m3u8
